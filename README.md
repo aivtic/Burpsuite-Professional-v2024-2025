@@ -44,7 +44,7 @@ Note: Copy the license from loader to the burpsuite > manual activation > copy b
 
      right click the desktop -> create a launcher name it Burpsuite Professional, add command `burpsuitepro` and select burpsuite community icon.
 
-<img width="500" height="500" src="https://github.com/aivtic/Burpsuite-Professional-v2024-2025/Launcher.jpg">
+
         
 
 <h1 align="center" >
