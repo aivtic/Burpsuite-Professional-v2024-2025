@@ -1,4 +1,4 @@
-![bURP](https://github.com/aivtic/Burpsuite-Professional-v2024-2025/pro.png)
+!
 
 # <h1 align="center"> Burpsuite Professional v2024-2025 </h1>
 
