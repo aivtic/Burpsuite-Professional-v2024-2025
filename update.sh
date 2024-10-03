@@ -1,0 +1,8 @@
+#!/bin/bash
+
+   # Remove old files
+   cd
+   echo 'Removing Old Files'
+   sudo rm -rf Burpsuite-Professional
+   sudo rm -rf /bin/burpsuitepro
+   sudo curl https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/refs/heads/main/install.sh | sudo sh
